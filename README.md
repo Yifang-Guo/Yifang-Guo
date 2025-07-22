@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Linux, CI/CD**
 
-- 👯 I’m looking to collaborate on [Portfolio Site](https://github.com/Yifang-Guo/awesome_portfolio)
+- 👯 PE fellow @ Meta x MLH Project [Portfolio Site](https://github.com/Yifang-Guo/awesome_portfolio)
 
 - 💬 Ask me about **Python, Java**
 
