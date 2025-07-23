@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Yifang</h1>
+<h1 align="center">Hi 👋🏻, I'm Yifang</h1>
 <h3 align="center">A Master’s student in Software Design and Development</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yifang-guo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [Constructor](https://github.com/opencobra/reconstructor)
+👩🏻‍💻 I’m currently working on [Constructor](https://github.com/opencobra/reconstructor)
 
-- 🌱 I’m currently learning **Linux, CI/CD**
+🌱 I’m currently learning **Linux, CI/CD**
 
-- 👯 PE fellow @ Meta x MLH Project [Portfolio Site](https://github.com/Yifang-Guo/awesome_portfolio)
+👯 PE fellow @ Meta x MLH Project [Portfolio Site](https://github.com/Yifang-Guo/awesome_portfolio)
 
-- 💬 Ask me about **Python, Java**
+💬 Ask me about **Python, Java**
 
-- 📫 How to reach me **charlizeguo@gmail.com**
+💌 How to reach me **charlizeguo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
