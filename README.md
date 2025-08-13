@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yifang-guo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yifang-guo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yifang_guo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="yifang_guo" height="30" width="123" /></a>
+<!-- <a href="https://www.leetcode.com/yifang_guo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="yifang_guo" height="30" width="123" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
