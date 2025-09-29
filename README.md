@@ -4,9 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yifang-guo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-👩🏻‍💻 I’m currently working on [Constructor](https://github.com/opencobra/reconstructor)
-
-🌱 I’m currently learning **Linux, CI/CD**
+👩🏻‍💻 I’m currently learning **Linux, CI/CD**
 
 👯 PE fellow @ Meta x MLH Project [Portfolio Site](https://github.com/Yifang-Guo/awesome_portfolio)
 
